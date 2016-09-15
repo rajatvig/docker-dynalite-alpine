@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/rajatvig/docker-dynalite-alpine.svg?branch=master)](https://travis-ci.org/rajatvig/docker-dynalite-alpine)
-[![](https://imagelayers.io/badge/rajatvig/dynalite-alpine:latest.svg)](https://imagelayers.io/?images=rajatvig/dynalite-alpine:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/rajatvig/dynalite-alpine.svg)](http://microbadger.com/images/rajatvig/dynalite-alpine "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/rajatvig/dynalite-alpine.svg)](http://microbadger.com/images/rajatvig/dynalite-alpine "Get your own version badge on microbadger.com")
 
 # Overview
 
