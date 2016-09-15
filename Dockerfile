@@ -13,7 +13,7 @@ RUN \
   apk del python make g++ && \
   rm -rf /tmp/* /var/cache/apk/*
 
-WORKDIR $DATADIR
+WORKDIR /var/lib/dynalite
 
 VOLUME $DATADIR
 
