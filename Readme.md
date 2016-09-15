@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/rajatvig/docker-dynalite-alpine.svg?branch=master)](https://travis-ci.org/rajatvig/docker-dynalite-alpine)
+[![](https://imagelayers.io/badge/rajatvig/dynalite-alpine:latest.svg)](https://imagelayers.io/?images=rajatvig/dynalite-alpine:latest 'Get your own badge on imagelayers.io')
+
 # Overview
 
 This image contains a copy of Dynalite on Alpine.
